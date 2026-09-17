@@ -1,0 +1,14 @@
+# GCAP3226 — shared Codespaces environment (Week 2–3 notebooks)
+# Jupyter kernel (needed so VS Code / Codespaces can run .ipynb cells)
+ipykernel>=6.29
+
+# Data + plotting
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+
+# Regression (demo + in-class)
+scikit-learn>=1.3
+statsmodels>=0.14
+scipy>=1.11
